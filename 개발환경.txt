@@ -1,0 +1,13 @@
+# 개발환경 
+- OS
+  - Windows 10
+- SDK
+  - Python 3.7.3
+- Framework 
+  - Tensorflow 2.2.0
+  - CUDA Toolkit 10.1 update2 (Aug 2019), Versioned Online Documentation / CuDNN v7.6.5 (November 5th, 2019), for CUDA 10.1
+  - Keras 2.4.3
+  - gensim 3.8.3
+  - nltk 3.5
+  - konlpy 0.5.2
+  - sklearn 0.23.1
